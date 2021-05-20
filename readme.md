@@ -31,7 +31,7 @@ Birth Year
 ____________________________________________________________________________________________________________________
 
 # Statistics Computed:
-
+![image](https://user-images.githubusercontent.com/17765258/118907894-a8fa4c80-b920-11eb-9860-6b818ebdc9ec.png)
 1 Popular times of travel (i.e., occurs most often in the start time)
 
 most common month
