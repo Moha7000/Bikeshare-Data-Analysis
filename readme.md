@@ -16,7 +16,7 @@ In this project, we will use data provided by Motivate, a bike share system prov
 ____________________________________________________________________________________________________________________
 
 # The Datasets:
-
+![image](https://user-images.githubusercontent.com/17765258/118907573-0cd04580-b920-11eb-9c09-5317eb6d5b1d.png)
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
 Start Time (e.g., 2017-01-01 00:07:57)
