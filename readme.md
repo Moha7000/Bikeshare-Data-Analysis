@@ -1,12 +1,12 @@
-#Project Name: 
+# Project Name: 
 US Bikeshare Data
 ____________________________________________________________________________________________________________________
 
-#Project Overview: 
+# Project Overview: 
 In this project, we will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 ____________________________________________________________________________________________________________________
 
-#Bike Share Data
+# Bike Share Data
 
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 
@@ -15,7 +15,7 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 In this project, we will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. We will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 ____________________________________________________________________________________________________________________
 
-#The Datasets:
+# The Datasets:
 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
@@ -30,7 +30,7 @@ Gender
 Birth Year
 ____________________________________________________________________________________________________________________
 
-#Statistics Computed:
+# Statistics Computed:
 
 1 Popular times of travel (i.e., occurs most often in the start time)
 
@@ -56,7 +56,7 @@ counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
 ____________________________________________________________________________________________________________________
 
-#An Interactive Experience:
+# An Interactive Experience:
 
 The experience is interactive because depending on a user's input to the following questions:
 
